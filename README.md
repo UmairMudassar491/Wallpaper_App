@@ -1,16 +1,13 @@
 # wallpaper_app
 
-A new Flutter project.
+Wallpaper Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a wallpaper application using pexels api which link is given below.
+<br>
+https://www.pexels.com/api/documentation/
+<br>
+This is a practice project for learning Flutter development by following the video link provided below.
+<br>
+https://www.youtube.com/watch?v=EKdAU3l_0gA
